@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructions>
+    <section name="General">
+        <instruction>Use the keyboard arrows to move around. Pressing ESC on the home screen closes the game, as does clicking the x button. The game is played using the keyboard arrow keys and the game is paused with the SPACE key. Good luck and have fun! </instruction>
+    </section>
+    <section name="Standard Mode">
+        <instruction>Good old classic snake game. Hit the outside wall, you die. Hit yourself, you die. Eat an apple, you grow.</instruction>
+    </section>
+    <section name="Walls Mode">
+        <instruction>Basically standard mode but now with walls spawned randomly when an apple is eaten. Hit the random wall, you die!</instruction>
+    </section>
+    <section name="Poison Mode">
+        <instruction>Continues building on the "Walls Mode" by expanding the game to now also spawn poisoned apples. Eat a poisoned apple, guess what? You die!</instruction>
+    </section>
+    <section name="Future Modes">
+        <instruction>Memory mode. The obsticles are shown for a few ticks before disapearing and you have to rememeber where they were. The apples is still present though! And as usual hit the invisible osbsticle, you die!</instruction>
+    </section>
+    <section name="General Message">
+        <instruction>Hello from the other side!</instruction>
+    </section>
+</instructions>
